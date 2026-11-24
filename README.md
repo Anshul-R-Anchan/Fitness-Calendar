@@ -128,7 +128,7 @@ fitness-tracker/
 
 ## 👤 Author
 
-* **\[Your Name\]** – [GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+* **ANSHUL R ANCHAN** 
 
 ## 📄License
 
